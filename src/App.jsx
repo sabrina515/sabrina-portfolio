@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-light-purple via-pink-accent to-white-bg text-text-dark font-poppins">
       <nav className="p-4 flex justify-between items-center bg-dark-purple text-white shadow-md">
-        <div className="text-2xl font-bold">Sabrina's - Portofolio</div>
+        <div className="text-2xl font-bold">Sabrina's - Portfolio</div>
         <ul className="flex space-x-8 text-lg">
           <li>
             <a
