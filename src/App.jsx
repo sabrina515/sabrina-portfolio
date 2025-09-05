@@ -37,7 +37,7 @@ function App() {
       <header className="flex flex-col items-center justify-center min-h-[calc(100vh-80px)] p-8 text-center bg-dark-purple bg-opacity-80 rounded-b-3xl shadow-xl mx-auto max-w-7xl">
         <div className="relative mb-8 transform hover:scale-105 transition-transform duration-300">
           <img
-            src="/profil.png"
+            src="/sabrina-portfolio/profil.png"
             alt="Profil"
             className="rounded-full w-48 h-48 object-cover border-4 border-pink-accent shadow-2xl"
           />
